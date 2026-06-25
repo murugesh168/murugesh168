@@ -64,7 +64,7 @@
 
 <div align="center">
 
-*"Build with purpose. Ship with confidence."*
+*"Don't just learn to code. Learn to think like a developer."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=murugesh168&color=0ea5e9&style=flat-square)
 
