@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Murugesh%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Murugesh%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=51&descAlign=50" />
 
 </div>
 
@@ -51,6 +51,7 @@
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -69,5 +70,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=murugesh168&color=0ea5e9&style=flat-square)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" />
