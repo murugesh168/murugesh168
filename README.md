@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Murugesh%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Murugesh%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=44desc=MERN%20Stack%20Developer&descAlignY=51&descAlign=50" />
 
 </div>
 
@@ -49,9 +49,9 @@
 
 ### 🚢 Deployment Platforms
 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
